@@ -203,7 +203,21 @@ define Device/adtran_bsap1880
   IMAGE/sysupgrade.bin := append-rootfs | pad-rootfs | \
 	check-size | sysupgrade-tar rootfs=$$$$@ | append-metadata
 endef
-
+define Device/linkap_xr750-v1
+  SOC := qca9531
+  DEVICE_VENDOR := LinkAP
+  DEVICE_MODEL := XR75
+  DEVICE_VARIANT := v1
+  IMAGE_SIZE := 15616k
+  KERNEL_SIZE := 1728k
+  BLOCKSIZE := 64k
+  IMAGES += factory.bin
+  IMAGE/factory.bin := append-kernel | pad-to $(KERNEL_SIZE) | append-rootfs | pad-rootfs
+  IMAGE/sysupgrade.bin := append-kernel | pad-to $(KERNEL_SIZE) | append-rootfs | pad-rootfs | \
+        append-metadata | check-size
+  DEVICE_PACKAGES := kmod-ath10k ath10k-firmware-qca9887 -swconfig
+endef
+TARGET_DEVICES += linkap_xr750-v1
 define Device/adtran_bsap1800-v2
   $(Device/adtran_bsap1880)
   DEVICE_MODEL := BSAP-1800
