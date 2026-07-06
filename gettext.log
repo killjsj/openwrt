@@ -1,0 +1,93 @@
+WARNING: Makefile 'package/feeds/telephony/asterisk/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/bind/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/chrony/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/chrony/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/coreutils/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/coreutils/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/coreutils/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/crun/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/dnsdist/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/dovecot/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/fastd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/freeradius3/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/frr/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/kismet/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/kismet/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ksmbd-tools/Makefile' has a dependency on 'kmod-fs-ksmbd', which does not exist
+WARNING: Makefile 'package/feeds/packages/libwebsockets/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/libwebsockets/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/libwebsockets/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/mdnsresponder/Makefile' has a build dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ntpd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ntpd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ntpd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ntpd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/pulseaudio/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/pulseaudio/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/samba4/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/squid/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/sslh/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/tor/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/tor/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/uwsgi/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/zsh/Makefile' has a dependency on 'libcap', which does not exist
+make[1]: Entering directory '/home/kill/openwrt'
+make[2]: Entering directory '/home/kill/openwrt/package/libs/gettext-full'
+mkdir -p /home/kill/openwrt/dl
+SHELL= flock /home/kill/openwrt/tmp/.gettext-0.19.8.1.tar.xz.flock -c '  	/home/kill/openwrt/scripts/download.pl "/home/kill/openwrt/dl" "gettext-0.19.8.1.tar.xz" "105556dbc5c3fbbc2aa0edb46d22d055748b6f5c7cd7a8d99f8e7eb84e938be4" "" "@GNU/gettext"    '
+CFLAGS="-O2 -I/home/kill/openwrt/staging_dir/host/include -I/home/kill/openwrt/staging_dir/hostpkg/include -I/home/kill/openwrt/staging_dir/target-mips_24kc_musl/host/include -DPIC -fPIC" CPPFLAGS="-I/home/kill/openwrt/staging_dir/host/include -I/home/kill/openwrt/staging_dir/hostpkg/include -I/home/kill/openwrt/staging_dir/target-mips_24kc_musl/host/include" CXXFLAGS="" LDFLAGS="-L/home/kill/openwrt/staging_dir/host/lib -L/home/kill/openwrt/staging_dir/hostpkg/lib -L/home/kill/openwrt/staging_dir/target-mips_24kc_musl/host/lib" make -j1 -C /home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1  
+make[3]: Entering directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1'
+make  all-recursive
+make[4]: Entering directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1'
+Making all in gnulib-local
+make[5]: Entering directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/gnulib-local'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/gnulib-local'
+Making all in gettext-runtime
+make[5]: Entering directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/gettext-runtime'
+make  all-recursive
+make[6]: Entering directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/gettext-runtime'
+Making all in intl
+make[7]: Entering directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/gettext-runtime/intl'
+make[7]: *** No rule to make target 'libgnuintl.@INTL_LIBTOOL_SUFFIX_PREFIX@a', needed by 'all-no-yes'.  Stop.
+make[7]: Leaving directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/gettext-runtime/intl'
+make[6]: *** [Makefile:1346: all-recursive] Error 1
+make[6]: Leaving directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/gettext-runtime'
+make[5]: *** [Makefile:1251: all] Error 2
+make[5]: Leaving directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/gettext-runtime'
+make[4]: *** [Makefile:412: all-recursive] Error 1
+make[4]: Leaving directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1'
+make[3]: *** [Makefile:368: all] Error 2
+make[3]: Leaving directory '/home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1'
+make[2]: *** [Makefile:102: /home/kill/openwrt/build_dir/hostpkg/gettext-0.19.8.1/.built] Error 2
+make[2]: Leaving directory '/home/kill/openwrt/package/libs/gettext-full'
+time: package/libs/gettext-full/host-compile#0.46#0.26#0.59
+    ERROR: package/libs/gettext-full [host] failed to build.
+make[1]: *** [package/Makefile:114: package/libs/gettext-full/host/compile] Error 1
+make[1]: Leaving directory '/home/kill/openwrt'
+make: *** [/home/kill/openwrt/include/toplevel.mk:230: package/libs/gettext-full/host/compile] Error 2

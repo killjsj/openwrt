@@ -1,0 +1,158 @@
+WARNING: Makefile 'package/feeds/telephony/asterisk/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/bind/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/chrony/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/chrony/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/coreutils/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/coreutils/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/coreutils/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/crun/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/dnsdist/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/dovecot/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/fastd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/freeradius3/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/frr/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/kismet/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/kismet/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ksmbd-tools/Makefile' has a dependency on 'kmod-fs-ksmbd', which does not exist
+WARNING: Makefile 'package/feeds/packages/libwebsockets/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/libwebsockets/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/libwebsockets/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/lxc/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/mdnsresponder/Makefile' has a build dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ntpd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ntpd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ntpd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/ntpd/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/pulseaudio/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/pulseaudio/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/samba4/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/squid/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/sslh/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/tor/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/tor/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/uwsgi/Makefile' has a dependency on 'libcap', which does not exist
+WARNING: Makefile 'package/feeds/packages/zsh/Makefile' has a dependency on 'libcap', which does not exist
+make[1]: Entering directory '/home/kill/openwrt'
+make[2]: Entering directory '/home/kill/openwrt/package/libs/toolchain'
+echo "libc" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/toolchain.default.install
+echo "libgcc" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/toolchain.default.install
+echo "libpthread" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/toolchain.default.install
+make[2]: Leaving directory '/home/kill/openwrt/package/libs/toolchain'
+time: package/libs/toolchain/compile#0.21#0.09#0.25
+make[2]: Entering directory '/home/kill/openwrt/package/firmware/linux-firmware'
+mkdir -p /home/kill/openwrt/dl
+SHELL= flock /home/kill/openwrt/tmp/.linux-firmware-20211216.tar.xz.flock -c '  	/home/kill/openwrt/scripts/download.pl "/home/kill/openwrt/dl" "linux-firmware-20211216.tar.xz" "eeddb4e6bef31fd1a3757f12ccc324929bbad97855c0b9ec5ed780f74de1837d" "" "@KERNEL/linux/kernel/firmware"    '
+echo "ath10k-board-qca9887" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux-firmware.default.install
+echo "ath10k-firmware-qca9887" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux-firmware.default.install
+make[2]: Leaving directory '/home/kill/openwrt/package/firmware/linux-firmware'
+time: package/firmware/linux-firmware/compile#1.55#1.63#2.43
+make[2]: Entering directory '/home/kill/openwrt/package/firmware/prism54-firmware'
+make[2]: Nothing to be done for 'compile'.
+make[2]: Leaving directory '/home/kill/openwrt/package/firmware/prism54-firmware'
+time: package/firmware/prism54-firmware/compile#0.47#0.09#0.49
+make[2]: Entering directory '/home/kill/openwrt/package/kernel/linux'
+echo "kernel" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-aead" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-ccm" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-cmac" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-crc32c" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-ctr" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-gcm" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-gf128" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-ghash" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-hash" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-hmac" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-manager" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-null" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+WARNING: kmod-crypto-pcompress is not available in the kernel config - generating empty package
+echo "kmod-crypto-pcompress" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-rng" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-seqiv" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-crypto-sha256" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-lib-crc-ccitt" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-lib-crc32c" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nf-reject" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nf-reject6" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nf-ipt" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nf-ipt6" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-ipt-core" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nf-conntrack" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nf-conntrack6" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nf-nat" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nf-flow" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-ip6tables" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nfnetlink" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nft-core" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nft-nat" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nft-offload" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-nft-fib" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-slhc" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-ppp" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-pppox" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+echo "kmod-pppoe" >> /home/kill/openwrt/staging_dir/target-mips_24kc_musl/pkginfo/linux.default.install
+make[2]: Leaving directory '/home/kill/openwrt/package/kernel/linux'
+time: package/kernel/linux/compile#1.71#0.12#1.66
+make[2]: Entering directory '/home/kill/openwrt/package/network/utils/iptables'
+mkdir -p /home/kill/openwrt/dl
+SHELL= flock /home/kill/openwrt/tmp/.iptables-1.8.7.tar.bz2.flock -c '  	/home/kill/openwrt/scripts/download.pl "/home/kill/openwrt/dl" "iptables-1.8.7.tar.bz2" "c109c96bb04998cd44156622d36f8e04b140701ec60531a10668cfdff5e8d8f0" "" "https://netfilter.org/projects/iptables/files"    '
+rm -f /home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/.built
+touch /home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/.built_check
+CFLAGS="-Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc -fno-caller-saves -fno-plt -fhonour-copts -Wno-error=unused-but-set-variable -Wno-error=unused-result -msoft-float -mips16 -minterlink-mips16 -fmacro-prefix-map=/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7=iptables-1.8.7 -Wformat -Werror=format-security -fstack-protector -D_FORTIFY_SOURCE=1 -Wl,-z,now -Wl,-z,relro -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/include -ffunction-sections -fdata-sections -DNO_LEGACY  -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/include -I/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/usr/include -I/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/include/fortify -I/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/include " CXXFLAGS="-Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc -fno-caller-saves -fno-plt -fhonour-copts -Wno-error=unused-but-set-variable -Wno-error=unused-result -msoft-float -mips16 -minterlink-mips16 -fmacro-prefix-map=/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7=iptables-1.8.7 -Wformat -Werror=format-security -fstack-protector -D_FORTIFY_SOURCE=1 -Wl,-z,now -Wl,-z,relro -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/include -ffunction-sections -fdata-sections -DNO_LEGACY  -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/include -I/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/usr/include -I/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/include/fortify -I/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/include " LDFLAGS="-L/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/usr/lib -L/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/lib -znow -zrelro -Wl,--gc-sections " make  -C /home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/. AR="mips-openwrt-linux-musl-gcc-ar" AS="mips-openwrt-linux-musl-gcc -c -Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc -fno-caller-saves -fno-plt -fhonour-copts -Wno-error=unused-but-set-variable -Wno-error=unused-result -msoft-float -fmacro-prefix-map=/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7=iptables-1.8.7 -Wformat -Werror=format-security -fstack-protector -D_FORTIFY_SOURCE=1 -Wl,-z,now -Wl,-z,relro -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/include -ffunction-sections -fdata-sections -DNO_LEGACY" LD=mips-openwrt-linux-musl-ld NM="mips-openwrt-linux-musl-gcc-nm" CC="mips-openwrt-linux-musl-gcc" GCC="mips-openwrt-linux-musl-gcc" CXX="mips-openwrt-linux-musl-g++" RANLIB="mips-openwrt-linux-musl-gcc-ranlib" STRIP=mips-openwrt-linux-musl-strip OBJCOPY=mips-openwrt-linux-musl-objcopy OBJDUMP=mips-openwrt-linux-musl-objdump SIZE=mips-openwrt-linux-musl-size COPT_FLAGS="-Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc -fno-caller-saves -fno-plt -fhonour-copts -Wno-error=unused-but-set-variable -Wno-error=unused-result -msoft-float -mips16 -minterlink-mips16 -fmacro-prefix-map=/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7=iptables-1.8.7 -Wformat -Werror=format-security -fstack-protector -D_FORTIFY_SOURCE=1 -Wl,-z,now -Wl,-z,relro -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/include -ffunction-sections -fdata-sections -DNO_LEGACY" KERNEL_DIR="/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/" PREFIX=/usr KBUILD_OUTPUT="/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238" BUILTIN_MODULES="standard icmp tcp udp comment set SET limit mac multiport comment LOG nf_log_common nf_log_ipv4 TCPMSS REJECT time mark MARK icmp6 REJECT state CT conntrack SNAT DNAT MASQUERADE REDIRECT" ;
+make[3]: Entering directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7'
+make  all-recursive
+make[4]: Entering directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7'
+Making all in libiptc
+make[5]: Entering directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/libiptc'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/libiptc'
+Making all in libxtables
+make[5]: Entering directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/libxtables'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/libxtables'
+Making all in include
+make[5]: Entering directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include'
+Making all in utils
+make[5]: Entering directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/utils'
+/bin/bash ../libtool  --tag=CC   --mode=link mips-openwrt-linux-musl-gcc -Wall -Waggregate-return -Wmissing-declarations 	-Wmissing-prototypes -Wredundant-decls -Wshadow -Wstrict-prototypes 	-Wlogical-op 	-Winline -pipe -Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc -fno-caller-saves -fno-plt -fhonour-copts -Wno-error=unused-but-set-variable -Wno-error=unused-result -msoft-float -mips16 -minterlink-mips16 -fmacro-prefix-map=/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7=iptables-1.8.7 -Wformat -Werror=format-security -fstack-protector -D_FORTIFY_SOURCE=1 -Wl,-z,now -Wl,-z,relro -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/include -ffunction-sections -fdata-sections -DNO_LEGACY   -L/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/usr/lib -L/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/lib -znow -zrelro -Wl,--gc-sections  -o nfnl_osf nfnl_osf.o -L/home/kill/openwrt/staging_dir/target-mips_24kc_musl/usr/lib -lnfnetlink  
+OpenWrt-libtool: link: mips-openwrt-linux-musl-gcc -Wall -Waggregate-return -Wmissing-declarations -Wmissing-prototypes -Wredundant-decls -Wshadow -Wstrict-prototypes -Wlogical-op -Winline -pipe -Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc -fno-caller-saves -fno-plt -fhonour-copts -Wno-error=unused-but-set-variable -Wno-error=unused-result -msoft-float -mips16 -minterlink-mips16 -fmacro-prefix-map=/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7=iptables-1.8.7 -Wformat -Werror=format-security -fstack-protector -D_FORTIFY_SOURCE=1 -Wl,-z -Wl,now -Wl,-z -Wl,relro -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/include -I/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/linux-5.4.238/user_headers/include -ffunction-sections -fdata-sections -DNO_LEGACY -znow -zrelro -Wl,--gc-sections -o nfnl_osf nfnl_osf.o  -L/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/usr/lib -L/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/lib -L/home/kill/openwrt/staging_dir/target-mips_24kc_musl/usr/lib -lnfnetlink
+/home/kill/openwrt/staging_dir/toolchain-mips_24kc_gcc-8.4.0_musl/lib/gcc/mips-openwrt-linux-musl/8.4.0/../../../../mips-openwrt-linux-musl/bin/ld: /home/kill/openwrt/staging_dir/target-mips_24kc_musl/usr/lib/libnfnetlink.so: undefined reference to `__time64'
+collect2: error: ld returned 1 exit status
+make[5]: *** [Makefile:474: nfnl_osf] Error 1
+make[5]: Leaving directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/utils'
+make[4]: *** [Makefile:497: all-recursive] Error 1
+make[4]: Leaving directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7'
+make[3]: *** [Makefile:406: all] Error 2
+make[3]: Leaving directory '/home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7'
+make[2]: *** [Makefile:650: /home/kill/openwrt/build_dir/target-mips_24kc_musl/linux-ath79_generic/iptables-1.8.7/.built] Error 2
+make[2]: Leaving directory '/home/kill/openwrt/package/network/utils/iptables'
+time: package/network/utils/iptables/compile#0.31#0.17#0.41
+    ERROR: package/network/utils/iptables failed to build.
+make[1]: *** [package/Makefile:116: package/network/utils/iptables/compile] Error 1
+make[1]: Leaving directory '/home/kill/openwrt'
+make: *** [/home/kill/openwrt/include/toplevel.mk:230: package/network/utils/iptables/compile] Error 2
