@@ -3418,3 +3418,18 @@ define Device/zyxel_nbg6616
   SUPPORTED_DEVICES += nbg6616
 endef
 TARGET_DEVICES += zyxel_nbg6616
+
+define Device/linkap_xr750-v1
+  SOC := qca9531
+  DEVICE_VENDOR := LinkAP
+  DEVICE_MODEL := XR75
+  DEVICE_VARIANT := v1
+  IMAGE_SIZE := 15616k
+  BLOCKSIZE := 64k
+  IMAGES += factory.bin
+  IMAGE/factory.bin := append-kernel | pad-to $$$$(KERNEL_SIZE) | append-rootfs | pad-rootfs
+  IMAGE/sysupgrade.bin := append-kernel | pad-to $$$$(KERNEL_SIZE) | append-rootfs | pad-rootfs | \
+	append-metadata | check-size
+  DEVICE_PACKAGES := kmod-ath10k ath10k-firmware-qca9887 -swconfig
+endef
+TARGET_DEVICES += linkap_xr750-v1
