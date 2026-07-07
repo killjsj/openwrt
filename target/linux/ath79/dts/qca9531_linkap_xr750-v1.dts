@@ -167,9 +167,7 @@
 
 &wmac {
 	status = "okay";
-
 	mtd-cal-data = <&art 0x1000>;
-	/* 修正：基于 factory hex dump 数据，2.4G 无线 MAC 地址位于偏移量 0x1c 处 */
 	mtd-mac-address = <&factory 0x1c>;
 };
 
