@@ -209,7 +209,7 @@ define Device/linkap_xr750-v1
   DEVICE_MODEL := XR75
   DEVICE_VARIANT := v1
   IMAGE_SIZE := 15616k
-  KERNEL_SIZE := 1728k
+  KERNEL_SIZE := 2048k
   BLOCKSIZE := 64k
   IMAGES += factory.bin
   IMAGE/factory.bin := append-kernel | pad-to $(KERNEL_SIZE) | append-rootfs | pad-rootfs
